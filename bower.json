@@ -1,0 +1,22 @@
+{
+  "name": "overcoat",
+  "version": "0.0.1",
+  "homepage": "http://codeshoppe.io/overcoat",
+  "description": "jQuery plugin that provides simple labeled overlays that respond to browser resize",
+  "main": "src/jquery.overcoat.js",
+  "authors": [
+    "Jennifer Reyes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.9",
+    "bacon" : "~0.7.33"
+  }
+}
