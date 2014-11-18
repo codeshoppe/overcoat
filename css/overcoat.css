@@ -1,3 +1,8 @@
+#bower-install {
+  position: relative;
+  top: 20px;
+}
+
 code {
   padding: 2px 6px;
   font-size: 90%;
