@@ -3,6 +3,9 @@ Overcoat.js is a jQuery plugin that adds custom overlays to portions of a site. 
 
 One of the key features of Overcoat.js is the ability for overcoats to resize as the browser windows resizes. Bacon.js is used to throttle how often overcoat responds to window resize events to avoid performance issues.
 
+## Install
+`$ bower install overcoat`
+
 ## [View Demo](http://codeshoppe.io/overcoat/example/portfolio.html)
 ![](http://g.recordit.co/8frgy8tW1G.gif)
 - Demo showcasing Overcoat.js resize functionality.
