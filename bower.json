@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~1.9",
-    "bacon" : "~0.7.33"
+    "jquery": ">=1.9",
+    "bacon": ">=0.7.33"
   }
 }
