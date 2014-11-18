@@ -1,0 +1,23 @@
+code {
+  padding: 2px 6px;
+  font-size: 90%;
+  background-color: #80D3C9;
+  border-radius: 4px;
+  color: black;
+  font-family: 'PT Mono';
+  text-align: left;
+}
+
+pre {
+word-break: break-all;
+word-wrap: break-word;
+font-size: 90%;
+}
+
+.feature .content p.no-margin {
+  margin: 0;
+}
+
+#demo {
+  width: 100%;
+}
