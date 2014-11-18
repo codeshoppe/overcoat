@@ -12,8 +12,10 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "test",
-    "tests"
+    "lib",
+    "spec",
+    "example"
+    "SpecRunner.html"
   ],
   "dependencies": {
     "jquery": ">=1.9",
